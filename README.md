@@ -6,6 +6,7 @@ This project demonstrates the design, configuration, and testing of an enterpris
 The network supports multiple departments through VLAN segmentation, inter-VLAN routing, DHCP, and static routing between sites.
 
 ## Network Topology
+![Enterprise Network Topology](network-topology.png)
 The topology consists of:
 - 2 Cisco 2911 Routers
 - 4 Cisco 2960 Switches
